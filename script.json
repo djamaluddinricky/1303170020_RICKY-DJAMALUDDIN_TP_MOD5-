@@ -1,0 +1,15 @@
+[
+	{
+		"Home" :
+			{
+				"nama" : "Ricky Djamaluddin R",
+				"nim" : "1303170020",
+				"kelas" : "IT-41-01"
+			},
+		"About" : "Saya adalah Mahasiswa",
+		"Hobbies" : ["Ngedit", "Buat video","Joging" ],
+		"Skills" : ["Ngedit", "Photo manipulation", "After effect"],
+		"Education" : ["TK", "SD", "SMP", "SMA", "Kuliah"],
+		"Experience" : ["Kepengurusan", "panitia", "Jomblo 20 tahun"]
+	}
+]
